@@ -21,6 +21,8 @@ public class data {
 		String value = c.getStringCellValue();
 		System.out.println(value);
  
+		
+		
 	}
 
 }
